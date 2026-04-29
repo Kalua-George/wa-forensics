@@ -49,5 +49,8 @@ Thumbs.db
 *.swo
 *~
 
+.venv
+
+
 # ── Screenshots (added manually, not auto-generated) ─────────────────────────
 # docs/screenshots/*.png  ← Uncomment to also ignore screenshots
